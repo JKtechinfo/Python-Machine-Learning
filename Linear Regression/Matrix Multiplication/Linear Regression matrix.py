@@ -16,11 +16,11 @@ current_directory = os.getcwd()
 print(current_directory)
 
 #Going to the working directory
-working_directory = os.chdir(r'C:\Users\User\Desktop\Jose\Personal projects\Blog\Machine Learning\Linear Regression\Matrix multiplication')
+working_directory = os.chdir(r' ') #Please remember to write the folder location where your text file is
 print(working_directory)
 
 #Importing text file
-data = np.loadtxt('points.txt', skiprows=(2), dtype=float)
+data = np.loadtxt('points.txt', skiprows=(2), dtype=float) #The name of the text file is "points.txt". However, it can be renamed.
 print(data)
 
 #Setting x values
