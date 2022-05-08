@@ -6,8 +6,8 @@ In the folders, you will find the complete Python code for different Machine Lea
 
 IMPORTANT!: Please keep in mind that some libraries are not included in the Python package when downloading it. If this is the case, you can simply solve this problem by typing in the command prompt (cmd) pip install (#name of the missing library). Examples:
 
-pip install pandas
+    pip install pandas
 
-pip install numpy
+    pip install numpy
 
 Please if you have questions, do not hesitate to contact me. Happy Python learning!
